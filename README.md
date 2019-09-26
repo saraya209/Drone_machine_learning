@@ -18,6 +18,6 @@ In addition to reflectance in four separable bands, a high-resolution digital su
 The model testing and tuning scripts were done using [`drake`](https://ropenscilabs.github.io/drake-manual/) R package which ensures  reproducibility and efficiency. *Click the image to explore a sample dependency graph of a script that produces a model report.*
 
 ### Model analysis and interpretation
-[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/variable_effect.png)](gbm_62_analysis.html)
+[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/variable_effect.png)](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/gbm_62_analysis.html)
 
 The developed models were analyzed and compared detailed reports produced. *Click the image to explore a sample report for one iteration of a boosted regression tree model.*
