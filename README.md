@@ -20,4 +20,4 @@ The model testing and tuning scripts were done using [`drake`](https://ropenscil
 ### Model analysis and interpretation
 [![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/variable_effect.png)](http://htmlpreview.github.io/?https://github.com/saraya209/Drone_machine_learning/blob/master/ad/gbm_62_analysis.html)
 
-The developed models were analyzed and compared detailed reports produced. *Click the image to explore a sample report for one iteration of a boosted regression tree model.*
+Model comparisons and analyses were done to understand the relationships and interactions between the variables. *Click the image to explore a sample report for one set of model tuning iteration.*
