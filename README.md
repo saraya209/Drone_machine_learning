@@ -13,11 +13,11 @@ Pending the publication of this work in a peer-reviewed journal, this repository
 In addition to reflectance in four separable bands, a high-resolution digital surface model was developed from the drone-based multispectral imaging and used to develop tens of topographic parameters.
 
 ### Reproducible and efficient coding
-[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/dependency_snip.png)](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/Plan_GBM_Drake.html)
+[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/dependency_snip.png)](http://htmlpreview.github.io/?https://github.com/saraya209/Drone_machine_learning/blob/master/ad/Plan_GBM_Drake.html)
 
 The model testing and tuning scripts were done using [`drake`](https://ropenscilabs.github.io/drake-manual/) R package which ensures  reproducibility and efficiency. *Click the image to explore a sample dependency graph of a script that produces a model report.*
 
 ### Model analysis and interpretation
-[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/variable_effect.png)](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/gbm_62_analysis.html)
+[![](https://github.com/saraya209/Drone_machine_learning/blob/master/ad/variable_effect.png)](http://htmlpreview.github.io/?https://github.com/saraya209/Drone_machine_learning/blob/master/ad/gbm_62_analysis.html)
 
 The developed models were analyzed and compared detailed reports produced. *Click the image to explore a sample report for one iteration of a boosted regression tree model.*
